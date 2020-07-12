@@ -1,0 +1,19 @@
+body{
+  padding-top: 100px;
+  font-family: 'Cookie', cursive;
+  background-color: #12cad6;
+  text-align: center;
+  color: black;
+}
+h1{
+font-size: 60px;
+}
+h2{
+font-size: 40px;
+}
+
+.footer{
+  padding-top:100px;
+  color: black;
+  padding-bottom:25px;
+}
